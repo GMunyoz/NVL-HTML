@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+   <head>
+     <meta charset="utf-8">
+     <title>Mi pagina de prueba</title>
+   </head>
+   <body>
+       <p>Los equipos con más historia de la LFP </p>
+       <ul>
+        <li>Real Madrid</li>
+        <li>F.C. Barcelona</li>
+        <li>Athletic Club de Bilbao</li> 
+       </ul>
+     <img src="html/images/LogoLFP.jpg" alt="imagen no encontrada">   
+    </body>
+</html>
