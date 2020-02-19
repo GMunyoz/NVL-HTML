@@ -6,11 +6,11 @@
    </head>
    <body>
        <p>Los equipos con más historia de la LFP </p>
-       <ul>
+       <ol>
         <li>Real Madrid</li>
         <li>F.C. Barcelona</li>
         <li>Athletic Club de Bilbao</li> 
-       </ul>
+       </ol>
      <img src="html/images/LogoLFP.jpg" alt="imagen no encontrada">   
     </body>
 </html>
